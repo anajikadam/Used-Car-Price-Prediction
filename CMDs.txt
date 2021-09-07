@@ -1,6 +1,0 @@
-E: && cd E:\anaji Python\HomeProject\car_price_predictor && Venv\Scripts\activate
-
-
-pip freeze > requirements.txt
-
-
